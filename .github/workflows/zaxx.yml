@@ -25,3 +25,4 @@ jobs:
           azcliversion: latest
           inlineScript: |
             az account show
+            az group list
